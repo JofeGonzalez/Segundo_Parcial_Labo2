@@ -1,0 +1,9 @@
+C:\Users\jgonz\source\repos\Gonzalez.Jose.2doParcial.2D\Gonzalez.Jose.2doParcial.2D\bin\Debug\Gonzalez.Jose.2doParcial.2D.dll
+C:\Users\jgonz\source\repos\Gonzalez.Jose.2doParcial.2D\Gonzalez.Jose.2doParcial.2D\bin\Debug\Gonzalez.Jose.2doParcial.2D.pdb
+C:\Users\jgonz\source\repos\Gonzalez.Jose.2doParcial.2D\Gonzalez.Jose.2doParcial.2D\bin\Debug\Excepciones.dll
+C:\Users\jgonz\source\repos\Gonzalez.Jose.2doParcial.2D\Gonzalez.Jose.2doParcial.2D\bin\Debug\Excepciones.pdb
+C:\Users\jgonz\source\repos\Gonzalez.Jose.2doParcial.2D\Gonzalez.Jose.2doParcial.2D\obj\Debug\ClasesAbstractas.csprojAssemblyReference.cache
+C:\Users\jgonz\source\repos\Gonzalez.Jose.2doParcial.2D\Gonzalez.Jose.2doParcial.2D\obj\Debug\ClasesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\jgonz\source\repos\Gonzalez.Jose.2doParcial.2D\Gonzalez.Jose.2doParcial.2D\obj\Debug\ClasesAbstractas.csproj.CopyComplete
+C:\Users\jgonz\source\repos\Gonzalez.Jose.2doParcial.2D\Gonzalez.Jose.2doParcial.2D\obj\Debug\Gonzalez.Jose.2doParcial.2D.dll
+C:\Users\jgonz\source\repos\Gonzalez.Jose.2doParcial.2D\Gonzalez.Jose.2doParcial.2D\obj\Debug\Gonzalez.Jose.2doParcial.2D.pdb

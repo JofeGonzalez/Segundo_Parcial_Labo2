@@ -1,0 +1,6 @@
+C:\Users\jgonz\source\repos\Gonzalez.Jose.2doParcial.2D\Extensiones\bin\Debug\Extensiones.dll
+C:\Users\jgonz\source\repos\Gonzalez.Jose.2doParcial.2D\Extensiones\bin\Debug\Extensiones.pdb
+C:\Users\jgonz\source\repos\Gonzalez.Jose.2doParcial.2D\Extensiones\obj\Debug\Extensiones.csprojAssemblyReference.cache
+C:\Users\jgonz\source\repos\Gonzalez.Jose.2doParcial.2D\Extensiones\obj\Debug\Extensiones.csproj.CoreCompileInputs.cache
+C:\Users\jgonz\source\repos\Gonzalez.Jose.2doParcial.2D\Extensiones\obj\Debug\Extensiones.dll
+C:\Users\jgonz\source\repos\Gonzalez.Jose.2doParcial.2D\Extensiones\obj\Debug\Extensiones.pdb

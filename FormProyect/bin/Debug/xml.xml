@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVenta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Venta>
+    <IdProducto>1</IdProducto>
+    <IdCliente>1</IdCliente>
+    <ModoEntrega>personal</ModoEntrega>
+  </Venta>
+  <Venta>
+    <IdProducto>3</IdProducto>
+    <IdCliente>4</IdCliente>
+    <ModoEntrega>delivery</ModoEntrega>
+  </Venta>
+  <Venta>
+    <IdProducto>10</IdProducto>
+    <IdCliente>2</IdCliente>
+    <ModoEntrega>personal</ModoEntrega>
+  </Venta>
+  <Venta>
+    <IdProducto>5</IdProducto>
+    <IdCliente>5</IdCliente>
+    <ModoEntrega>delivery</ModoEntrega>
+  </Venta>
+  <Venta>
+    <IdProducto>11</IdProducto>
+    <IdCliente>7</IdCliente>
+    <ModoEntrega>personal</ModoEntrega>
+  </Venta>
+</ArrayOfVenta>

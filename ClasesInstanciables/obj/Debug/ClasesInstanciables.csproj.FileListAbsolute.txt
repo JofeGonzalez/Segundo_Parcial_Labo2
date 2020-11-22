@@ -1,0 +1,13 @@
+C:\Users\jgonz\source\repos\Gonzalez.Jose.2doParcial.2D\ClasesInstanciables\obj\Debug\ClasesInstanciables.csprojAssemblyReference.cache
+C:\Users\jgonz\source\repos\Gonzalez.Jose.2doParcial.2D\ClasesInstanciables\obj\Debug\ClasesInstanciables.csproj.CoreCompileInputs.cache
+C:\Users\jgonz\source\repos\Gonzalez.Jose.2doParcial.2D\ClasesInstanciables\bin\Debug\ClasesInstanciables.dll
+C:\Users\jgonz\source\repos\Gonzalez.Jose.2doParcial.2D\ClasesInstanciables\bin\Debug\ClasesInstanciables.pdb
+C:\Users\jgonz\source\repos\Gonzalez.Jose.2doParcial.2D\ClasesInstanciables\bin\Debug\Gonzalez.Jose.2doParcial.2D.dll
+C:\Users\jgonz\source\repos\Gonzalez.Jose.2doParcial.2D\ClasesInstanciables\bin\Debug\Excepciones.dll
+C:\Users\jgonz\source\repos\Gonzalez.Jose.2doParcial.2D\ClasesInstanciables\bin\Debug\Gonzalez.Jose.2doParcial.2D.pdb
+C:\Users\jgonz\source\repos\Gonzalez.Jose.2doParcial.2D\ClasesInstanciables\bin\Debug\Excepciones.pdb
+C:\Users\jgonz\source\repos\Gonzalez.Jose.2doParcial.2D\ClasesInstanciables\obj\Debug\ClasesInstanciables.csproj.CopyComplete
+C:\Users\jgonz\source\repos\Gonzalez.Jose.2doParcial.2D\ClasesInstanciables\obj\Debug\ClasesInstanciables.dll
+C:\Users\jgonz\source\repos\Gonzalez.Jose.2doParcial.2D\ClasesInstanciables\obj\Debug\ClasesInstanciables.pdb
+C:\Users\jgonz\source\repos\Gonzalez.Jose.2doParcial.2D\ClasesInstanciables\bin\Debug\Archivos.dll
+C:\Users\jgonz\source\repos\Gonzalez.Jose.2doParcial.2D\ClasesInstanciables\bin\Debug\Archivos.pdb

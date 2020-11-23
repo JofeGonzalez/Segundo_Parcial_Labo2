@@ -228,6 +228,11 @@ namespace ClasesInstanciables
             Texto texto = new Texto();
             texto.Guardar(path, venta);
         }
-
+        public static void GuardarPedidosXml(List<Venta> ventas)
+        {
+            string path = AppDomain.CurrentDomain.BaseDirectory + @"\PedidosFaltantes.xml";
+            Xml<List<Venta>> venta = new Xml<List<Venta>>();
+            venta.Guardar(path, ventas);
+        }
     }
 }

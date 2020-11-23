@@ -95,6 +95,7 @@ namespace FormProyect
 
         private void VentasForm_FormClosing(object sender, FormClosingEventArgs e)
         {
+            Sql.GuardarPedidosXml(ventas);
             if (pedidoFinalizado.IsAlive)
             {
                 pedidoFinalizado.Abort();
